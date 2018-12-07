@@ -30,18 +30,22 @@ img {
 
 .box1 {
   background-color: #e2e2e2;
+  width: 25%;
 }
 
 .box2 {
   background-color: #ccc;
+  width: 25%;
 }
 
 .box3 {
   background-color: #aaa;
+  width: 25%;
 }
 
 .box4 {
   background-color: #999;
+  width: 25%;
 }
 
 h3 {
