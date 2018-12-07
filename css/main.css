@@ -98,7 +98,6 @@ p {
   flex-grow: 1;
   padding-bottom: 1.5rem;
   font-weight: normal;
-
 }
 
 .btn {
@@ -106,7 +105,7 @@ p {
   color: #f2f2f2;
   text-decoration: none;
   border-radius: 8px;
-  padding: .75rem;
+  padding: .25rem;
   font-size: .875rem;
   font-weight: bold;
   border: 3px solid #333;
